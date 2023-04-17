@@ -1,4 +1,4 @@
-# TextSentimentAnalysis
+# text sentiment analysis
 
 ## Objective
 Using https://api-ninjas.com/, the objective of this project is to take a given sentence and convert it into a less a negative version.
