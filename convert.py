@@ -48,5 +48,7 @@ def convertText(text):
             textList.append(word)
     newText = ' '.join(textList)
     printTranslation(text, newText)
-            
-convertText('this house is disgusting')
+
+# change exmapleText to try different sentences
+exampleText = 'this house is disgusting'
+convertText(exampleText)
